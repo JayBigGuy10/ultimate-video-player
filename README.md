@@ -1,8 +1,7 @@
 # ultimate-video-player
 
-Read my project report document [here!](https://github.com/JayBigGuy10/ultimate-video-player/blob/main/Jayden%20Litolff%20-%20COMPX241%20Individual%20Report%20%26%20Logbook%20-%20UltimateVideoPlayer.pdf)
+## Read my project report document [here!](https://github.com/JayBigGuy10/ultimate-video-player/blob/main/Jayden%20Litolff%20-%20COMPX241%20Individual%20Report%20%26%20Logbook%20-%20UltimateVideoPlayer.pdf)
 
-The repository for the UoW COMPX241-24A project, Ultimate Video Player.
 
 ## Team Members
 
